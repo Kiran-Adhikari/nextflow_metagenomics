@@ -1,1 +1,1 @@
-# nextflow_metagenomics
+# nextflow pipeline for metagenomics analysis
